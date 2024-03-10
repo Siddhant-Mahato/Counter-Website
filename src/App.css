@@ -1,0 +1,13 @@
+.control-row{
+    margin-top: 10px;
+}
+
+.num-inp{
+    max-width: 138px;
+}
+
+.star{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
